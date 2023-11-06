@@ -20,5 +20,4 @@
 |Brain1|5920|5|90|
 |Prostate-GE|5966|2|102|
 
-http://archive.ics.uci.edu/ml
-http://www.gems-system.org/
+http://archive.ics.uci.edu, https://jundongl.github.io/scikit-feature/datasets.html
